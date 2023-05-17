@@ -1,0 +1,37 @@
+_repo: Barnavaux-et-quelques-femmes_70504
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Mille, Pierre
+    birthdate: 1864
+    deathdate: 1941
+    gutenberg_agent_id: '6263'
+    url: http://www.gutenberg.org/2009/agents/6263
+    wikipedia: https://fr.wikipedia.org/wiki/Pierre_Mille
+description: ''
+gutenberg_issued: '2023-04-08'
+identifiers:
+  gutenberg: '70504'
+  lccn: 08005144
+language: fr
+pgterms:marc904: https://archive.org/details/barnavauxetquelq00milluoft
+pgterms:marc905: 20230325030826mille
+pgterms:marc906: '1908'
+pgterms:marc907: FR
+production_note: Laurent Vogel (This file was produced from images generously made
+  available by The Internet Archive/Canadian Libraries)
+publication_note: '  $aFrance :$bCalmann-Lévy, $c1908.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories, French'
+- !lcsh 'France -- Colonies -- Fiction'
+- !lcc 'PQ'
+- GITenberg
+tableOfContents: Marie-faite-en-fer -- L'île aux lépreux -- Barnavaux vainqueur --
+  Le romancero -- La nef morte -- L'homme qui a vu les sirènes -- L'attaque -- Le
+  Japonais -- La justice -- L'aventure de Sara -- Au dela du bien et du mal -- Les
+  pigeons -- La victoire.
+title: Barnavaux et quelques femmes
+url: http://www.gutenberg.org/ebooks/70504
